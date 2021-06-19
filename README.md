@@ -1,6 +1,6 @@
 # Logistic-Regression-claimants-data
 
-Q) classify whether the claim is with Attorney or not.
+Q) To predict as whether the claimant appointing Attorney or not.
 
 Steps-
 
